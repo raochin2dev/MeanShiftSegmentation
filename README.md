@@ -7,5 +7,4 @@ Original Image <br/>
 Result Image <br/>
 ![Alt text](/../master/res70_10.jpg?raw=true "Result")
 
-\
 
