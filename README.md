@@ -1,5 +1,5 @@
-# RegionMerging
-Computer Vision - Region Merging via Boundary Melting Algorithm
+# MeanShiftSegmentation
+Computer Vision - Mean Shift Segmentation
 
 Original Image <br/>
 ![Alt text](/../master/robert.jpg?raw=true "Original")
